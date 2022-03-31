@@ -3,6 +3,6 @@ It is a small mobile quiz application. To develop this project, I have used Andr
 
 ![](header.png)
 
-## Installation and Run Server
+## Installation and Run
 
 Open with Android Studi and run the application.
